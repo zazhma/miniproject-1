@@ -1,0 +1,23 @@
+.pc {
+  border-radius: 50%;
+}
+
+.bg{
+background-color: rgb(241, 229, 185);
+}
+
+.colll form input{
+  border: none;
+  background-color: rgb(255, 254, 254);
+  border-bottom: 2px solid rgb(14, 13, 13);
+  color:rgb(75, 38, 38);
+  font-size: 20px;
+  padding:10px;
+  border-left:4px solid rgb(155, 47, 47);
+}
+
+.bottom-right {
+position: absolute;
+bottom: 8px;
+right: 16px;
+}
